@@ -20,7 +20,7 @@ Navigation:
 
 [*Hyperbeam*](https://hyperbeam.com/app/login)
 
-[*Invited*](https://hyperbeam.com/app/login)
+[*Invited*](https://invited.tv)
 
 
 
